@@ -12,10 +12,6 @@
   <img src="https://github.com/user-attachments/assets/2becca68-1e01-47bb-af44-85085c4b8721" alt="comp2">
 </p>
 
-
-![alien1](https://github.com/user-attachments/assets/e8cc7b9a-0b29-4c55-8132-c048d1a8419a)
-![alien2](https://github.com/user-attachments/assets/3a8fe31d-24e1-4fb2-bb79-863d59a9eed2)
-
 #
 
 
